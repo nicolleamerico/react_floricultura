@@ -1,6 +1,6 @@
 # react_floricultura
 
-##Integrantes
+## Integrantes
 - Luiz Aragão
 - Luiza Ribeiro
 - Nicolle Américo
