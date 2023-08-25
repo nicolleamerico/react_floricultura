@@ -2,5 +2,5 @@
 
 ##Integrantes
 - Luiz Aragão
-- - Luiza Ribeiro
-  - - Nicolle Américo
+- Luiza Ribeiro
+- Nicolle Américo
